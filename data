@@ -13,7 +13,7 @@
     "route": "11Y",
     "front": 1,
     "frontid1": "rbxassetid://9390708861",
-    "controllerid1": "rbxassetid://10862227094",
+    "controllerid1": "rbxassetid://9390708861",
     "side": 1,
     "sideid1": "rbxassetid://9390725375"
   },
@@ -24,9 +24,9 @@
     "frontid1": "rbxassetid://9390710082",
     "frontid2": "rbxassetid://10700495242",
     "frontid3": "rbxassetid://10700524304",
-    "controllerid1": "rbxassetid://10867446166",
-    "controllerid2": "rbxassetid://10867441150",
-    "controllerid3": "rbxassetid://10867446588",
+    "controllerid1": "rbxassetid://9390710082",
+    "controllerid2": "rbxassetid://10700495242",
+    "controllerid3": "rbxassetid://10700524304",
     "side": 1,
     "sideid1": "rbxassetid://9390725375"
   },
