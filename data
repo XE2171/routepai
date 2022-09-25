@@ -8,48 +8,51 @@
     "side": 1,
     "sideid1": "rbxassetid://10699114137"
   },
-  {
+{
     "number": 1,
+    "route": "30AY",
+    "front": 1,
+    "frontid1": "rbxassetid://10956604575",
+    "controllerid1": "rbxassetid://10956603360",
+    "side": 1,
+    "sideid1": "rbxassetid://10956627759"
+  },
+  {
+    "number": 2,
+    "route": "30AZ",
+    "front": 1,
+    "frontid1": "rbxassetid://10956605061",
+    "controllerid1": "rbxassetid://10956603750",
+    "side": 1,
+    "sideid1": "rbxassetid://10956627759"
+  },
+  {
+    "number": 3,
+    "route": "31RY",
+    "front": 2,
+    "frontid1": "rbxassetid://11012324483",
+    "frontid2": "rbxassetid://11012327969",
+    "controllerid1": "rbxassetid://11012332522",
+    "controllerid2": "rbxassetid://11012337012",
+    "side": 1,
+    "sideid1": "rbxassetid://11012319884"
+  },
+  {
+    "number": 4,
+    "route": "31RZ",
+    "front": 1,
+    "frontid1": "rbxassetid://11012325991",
+    "controllerid1": "rbxassetid://11012334769",
+    "side": 1,
+    "sideid1": "rbxassetid://11012319884"
+  },
+  {
+    "number": 5,
     "route": "11Y",
     "front": 1,
     "frontid1": "rbxassetid://9390708861",
     "controllerid1": "rbxassetid://10893378257",
     "side": 1,
     "sideid1": "rbxassetid://9390725375"
-  },
-  {
-    "number": 2,
-    "route": "11Z",
-    "front": 3,
-    "frontid1": "rbxassetid://9390710082",
-    "frontid2": "rbxassetid://10700495242",
-    "frontid3": "rbxassetid://10700524304",
-    "controllerid1": "rbxassetid://10893378644",
-    "controllerid2": "rbxassetid://10893378644",
-    "controllerid3": "rbxassetid://10893375552",
-    "side": 1,
-    "sideid1": "rbxassetid://9390725375"
-  },
-  {
-    "number": 3,
-    "route": "11AY",
-    "front": 2,
-    "frontid1": "rbxassetid://9495681205",
-    "frontid2": "rbxassetid://10700495729",
-    "controllerid1": "rbxassetid://10893376827",
-    "controllerid2": "rbxassetid://10893376348",
-    "side": 1,
-    "sideid1": "rbxassetid://9495682670"
-  },
-  {
-    "number": 4,
-    "route": "11AZ",
-    "front": 2,
-    "frontid1": "rbxassetid://9495681895",
-    "frontid2": "rbxassetid://10700497421",
-    "controllerid1": "rbxassetid://10893377590",
-    "controllerid2": "rbxassetid://10893375964",
-    "side": 1,
-    "sideid1": "rbxassetid://9495682670"
   }
 ]
